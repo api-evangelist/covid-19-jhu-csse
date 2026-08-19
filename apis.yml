@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/covid-19-j
 name: Covid-19 JHU CSSE
 description: "Open-source API for exploring Covid19 cases based on JHU CSSE"
 url: https://nuttaphat.com/covid19-api/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
