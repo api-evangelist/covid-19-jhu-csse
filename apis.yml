@@ -39,7 +39,6 @@ apis:
   - name: Covid-19 JHU CSSE
     description: "Open-source API for exploring Covid19 cases based on JHU CSSE"
     humanURL: https://nuttaphat.com/covid19-api/
-    baseURL: https://nuttaphat.com/covid19-api/
     tags:
       - Health
     properties:
